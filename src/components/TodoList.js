@@ -14,7 +14,7 @@ const TodoList = ({ todos, handleComplete }) => {
                   handleComplete(todo.id);
                 }}
               >
-                complete
+                Complete
               </button>
             )}
           </li>
